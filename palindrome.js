@@ -12,7 +12,6 @@ function isPalindrome(str) {
   return true;
 
 }
-
 // Test driver code. These should all log true.
 // console.log(isPalindrome('p') === true);
 // console.log(isPalindrome('foo') === false);
